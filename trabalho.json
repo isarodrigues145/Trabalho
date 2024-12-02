@@ -1,0 +1,531 @@
+[
+    {
+        "codigo": "650",
+        "produto": "CACHIMBO D'ÁGUA BONG MINI",
+        "und": "UN",
+        "quantidade": 19.0,
+        "varejo": "R$ 22.90",
+        "total": "R$ 435.10",
+        "categoria": "Cachimbos",
+        "fotos": "./fotos/650/1-650.png, ./fotos/650/2-650.png, ./fotos/650/3-650.png"
+    },
+    {
+        "codigo": "637",
+        "produto": "CACHIMBO DE METAL - REF. DSC4079",
+        "und": "UN",
+        "quantidade": 5.0,
+        "varejo": "R$ 20.00",
+        "total": "R$ 100.00",
+        "categoria": "Cachimbos",
+        "fotos": "./fotos/637/1-637.png, ./fotos/637/2-637.png, ./fotos/637/3-637.png"
+    },
+    {
+        "codigo": "621",
+        "produto": "CHAR. ALONSO GOLD PREMIUM - 1X50",
+        "und": "CX",
+        "quantidade": 5.0,
+        "varejo": "R$ 51.90",
+        "total": "R$ 259.50",
+        "categoria": "Charutos",
+        "fotos": "./fotos/621/1-621.png, ./fotos/621/2-621.png, ./fotos/621/3-621.png"
+    },
+    {
+        "codigo": "622",
+        "produto": "CHAR. ALONSO GOLD PREMIUM C/PITEIRA - 10X5",
+        "und": "CX",
+        "quantidade": 8.0,
+        "varejo": "R$ 58.90",
+        "total": "R$ 471.20",
+        "categoria": "Charutos",
+        "fotos": "./fotos/622/1-622.png, ./fotos/622/2-622.png, ./fotos/622/3-622.png"
+    },
+    {
+        "codigo": "636",
+        "produto": "CHAR. AXÉ - 1X50",
+        "und": "CX",
+        "quantidade": 2.0,
+        "varejo": "R$ 88.00",
+        "total": "R$ 176.00",
+        "categoria": "Charutos",
+        "fotos": "./fotos/636/1-636.png, ./fotos/636/2-636.png, ./fotos/636/3-636.png"
+    },
+    {
+        "codigo": "625",
+        "produto": "CHAR. L&A TALVIS CORONA CHOCOLATE - 10X5",
+        "und": "UN",
+        "quantidade": 11.0,
+        "varejo": "R$ 20.00",
+        "total": "R$ 220.00",
+        "categoria": "Charutos",
+        "fotos": "./fotos/625/1-625.png, ./fotos/625/2-625.png, ./fotos/625/3-625.png"
+    },
+    {
+        "codigo": "624",
+        "produto": "CHAR. L&A TALVIS CORONA CHOCOLATE - 1X50",
+        "und": "CX",
+        "quantidade": 4.0,
+        "varejo": "R$ 200.00",
+        "total": "R$ 800.00",
+        "categoria": "Charutos",
+        "fotos": "./fotos/624/1-624.png, ./fotos/624/2-624.png, ./fotos/624/3-624.png"
+    },
+    {
+        "codigo": "626",
+        "produto": "CHAR. L&A TALVIS CORONA NATURAL - 10X5",
+        "und": "UN",
+        "quantidade": 6.0,
+        "varejo": "R$ 20.00",
+        "total": "R$ 120.00",
+        "categoria": "Charutos",
+        "fotos": "./fotos/626/1-626.png, ./fotos/626/2-626.png, ./fotos/626/3-626.png"
+    },
+    {
+        "codigo": "623",
+        "produto": "CHAR. L&A TALVIS CORONA NATURAL - 1X50",
+        "und": "CX",
+        "quantidade": 2.0,
+        "varejo": "R$ 200.00",
+        "total": "R$ 400.00",
+        "categoria": "Charutos",
+        "fotos": "./fotos/623/1-623.png, ./fotos/623/2-623.png, ./fotos/623/3-623.png"
+    },
+    {
+        "codigo": "620",
+        "produto": "CHAR. TALVIS AROMATIZADA - 1X60",
+        "und": "CX",
+        "quantidade": 2.0,
+        "varejo": "R$ 79.00",
+        "total": "R$ 158.00",
+        "categoria": "Charutos",
+        "fotos": "./fotos/620/1-620.png, ./fotos/620/2-620.png, ./fotos/620/3-620.png"
+    },
+    {
+        "codigo": "619",
+        "produto": "CHAR. TALVIS TRADICIONAL - 1X60",
+        "und": "CX",
+        "quantidade": 5.0,
+        "varejo": "R$ 79.00",
+        "total": "R$ 395.00",
+        "categoria": "Charutos",
+        "fotos": "./fotos/619/1-619.png, ./fotos/619/2-619.png, ./fotos/619/3-619.png"
+    },
+    {
+        "codigo": "655",
+        "produto": "CHARUTO DONA FLOR CORONA - 1X5",
+        "und": "CX",
+        "quantidade": 1.0,
+        "varejo": "R$ 117.00",
+        "total": "R$ 117.00",
+        "categoria": "Charutos",
+        "fotos": "./fotos/655/1-655.png, ./fotos/655/2-655.png, ./fotos/655/3-655.png"
+    },
+    {
+        "codigo": "654",
+        "produto": "CHARUTO DONA FLOR ROBUSTO - 1X5",
+        "und": "CX",
+        "quantidade": 2.0,
+        "varejo": "R$ 125.00",
+        "total": "R$ 250.00",
+        "categoria": "Charutos",
+        "fotos": "./fotos/654/1-654.png, ./fotos/654/2-654.png, ./fotos/654/3-654.png"
+    },
+    {
+        "codigo": "711",
+        "produto": "CUIA DE SILICONE TOKAHAUU PEQ. - A42 ",
+        "und": "UN",
+        "quantidade": 22.0,
+        "varejo": "R$ 5.00",
+        "total": "R$ 110.00",
+        "categoria": "Charutos",
+        "fotos": "./fotos/711/1-711.png, ./fotos/711/2-711.png, ./fotos/711/3-711.png"
+    },
+    {
+        "codigo": "653",
+        "produto": "DESF. ACRILICO BEM BOLADO - GRANDE",
+        "und": "UN",
+        "quantidade": 8.0,
+        "varejo": "R$ 15.50",
+        "total": "R$ 124.00",
+        "categoria": "Acessórios para Fumar",
+        "fotos": "./fotos/653/1-653.png, ./fotos/653/2-653.png, ./fotos/653/3-653.png"
+    },
+    {
+        "codigo": "640",
+        "produto": "DESF. ACRILICO BEM BOLADO - PEQ.",
+        "und": "UN",
+        "quantidade": 40.0,
+        "varejo": "R$ 10.90",
+        "total": "R$ 436.00",
+        "categoria": "Acessórios para Fumar",
+        "fotos": "./fotos/640/1-640.png, ./fotos/640/2-640.png, ./fotos/640/3-640.png"
+    },
+    {
+        "codigo": "639",
+        "produto": "DESF. ACRILICO SADHU HAPPY DAY",
+        "und": "UN",
+        "quantidade": 72.0,
+        "varejo": "R$ 9.50",
+        "total": "R$ 684.00",
+        "categoria": "Acessórios para Fumar",
+        "fotos": "./fotos/639/1-639.png, ./fotos/639/2-639.png, ./fotos/639/3-639.png"
+    },
+    {
+        "codigo": "666",
+        "produto": "DESF. METAL GOLD PEQ. - REF. PH1890",
+        "und": "UN",
+        "quantidade": 7.0,
+        "varejo": "R$ 27.00",
+        "total": "R$ 189.00",
+        "categoria": "Acessórios para Fumar",
+        "fotos": "./fotos/666/1-666.png, ./fotos/666/2-666.png, ./fotos/666/3-666.png"
+    },
+    {
+        "codigo": "667",
+        "produto": "DESF. METAL GRINDER - REF. FT07842",
+        "und": "UN",
+        "quantidade": 1.0,
+        "varejo": "R$ 56.00",
+        "total": "R$ 56.00",
+        "categoria": "Acessórios para Fumar",
+        "fotos": "./fotos/667/1-667.png, ./fotos/667/2-667.png, ./fotos/667/3-667.png"
+    },
+    {
+        "codigo": "645",
+        "produto": "DESF. METAL GRINDER BARRIL - REF. 6888",
+        "und": "UN",
+        "quantidade": 1.0,
+        "varejo": "R$ 27.00",
+        "total": "R$ 27.00",
+        "categoria": "Acessórios para Fumar",
+        "fotos": "./fotos/645/1-645.png, ./fotos/645/2-645.png, ./fotos/645/3-645.png"
+    },
+    {
+        "codigo": "642",
+        "produto": "DESF. METAL GRINDER POKER - REF. PH5845",
+        "und": "UN",
+        "quantidade": 8.0,
+        "varejo": "R$ 32.00",
+        "total": "R$ 256.00",
+        "categoria": "Acessórios para Fumar",
+        "fotos": "./fotos/642/1-642.png, ./fotos/642/2-642.png, ./fotos/642/3-642.png"
+    },
+    {
+        "codigo": "641",
+        "produto": "DESF. METAL GRINDER TABACCO - REF. DK5031E",
+        "und": "UN",
+        "quantidade": 2.0,
+        "varejo": "R$ 39.50",
+        "total": "R$ 79.00",
+        "categoria": "Acessórios para Fumar",
+        "fotos": "./fotos/641/1-641.png, ./fotos/641/2-641.png, ./fotos/641/3-641.png"
+    },
+    {
+        "codigo": "643",
+        "produto": "DESF. METAL GRINDER TOBACCO GOLD MED. - REF. PH1887",
+        "und": "UN",
+        "quantidade": 3.0,
+        "varejo": "R$ 35.00",
+        "total": "R$ 105.00",
+        "categoria": "Acessórios para Fumar",
+        "fotos": "./fotos/643/1-643.png, ./fotos/643/2-643.png, ./fotos/643/3-643.png"
+    },
+    {
+        "codigo": "674",
+        "produto": "DESF. METAL MOYANQI OGIVA - REF. 127",
+        "und": "UN",
+        "quantidade": 9.0,
+        "varejo": "R$ 24.80",
+        "total": "R$ 223.20",
+        "categoria": "Acessórios para Fumar",
+        "fotos": "./fotos/674/1-674.png, ./fotos/674/2-674.png, ./fotos/674/3-674.png"
+    },
+    {
+        "codigo": "644",
+        "produto": "DESF. METAL TAMBOR - REF.5866",
+        "und": "UN",
+        "quantidade": 12.0,
+        "varejo": "R$ 27.00",
+        "total": "R$ 324.00",
+        "categoria": "Acessórios para Fumar",
+        "fotos": "./fotos/644/1-644.png, ./fotos/644/2-644.png, ./fotos/644/3-644.png"
+    },
+    {
+        "codigo": "638",
+        "produto": "DESF. PAPELITO PLASTICO NEON CORES - 1X6",
+        "und": "DSP",
+        "quantidade": 38.0,
+        "varejo": "R$ 62.00",
+        "total": "R$ 2,356.00",
+        "categoria": "Acessórios para Fumar",
+        "fotos": "./fotos/638/1-638.png, ./fotos/638/2-638.png, ./fotos/638/3-638.png"
+    },
+    {
+        "codigo": "570",
+        "produto": "FILTRO HI TOBACCO FILTER LONG - 6,0X22MM - 10X130",
+        "und": "DSP",
+        "quantidade": 1.0,
+        "varejo": "R$ 50.00",
+        "total": "R$ 50.00",
+        "categoria": "Filtros",
+        "fotos": "./fotos/570/1-570.png, ./fotos/570/2-570.png, ./fotos/570/3-570.png"
+    },
+    {
+        "codigo": "569",
+        "produto": "FILTRO HI TOBACCO FILTER SLIM - 6,0X15MM - 10X130",
+        "und": "DSP",
+        "quantidade": 2.0,
+        "varejo": "R$ 50.00",
+        "total": "R$ 100.00",
+        "categoria": "Filtros",
+        "fotos": "./fotos/569/1-569.png, ./fotos/569/2-569.png, ./fotos/569/3-569.png"
+    },
+    {
+        "codigo": "568",
+        "produto": "FILTRO PAPELITO BIODEGRADAVEL LONGO - 6X22MM - 10X120",
+        "und": "DSP",
+        "quantidade": 4.0,
+        "varejo": "R$ 78.00",
+        "total": "R$ 312.00",
+        "categoria": "Filtros",
+        "fotos": "./fotos/568/1-568.png, ./fotos/568/2-568.png, ./fotos/568/3-568.png"
+    },
+    {
+        "codigo": "574",
+        "produto": "FILTRO PAPELITO SLIM - 5,3X15MM - 1X10",
+        "und": "DSP",
+        "quantidade": 2.0,
+        "varejo": "R$ 60.00",
+        "total": "R$ 120.00",
+        "categoria": "Filtros",
+        "fotos": "./fotos/574/1-574.png, ./fotos/574/2-574.png, ./fotos/574/3-574.png"
+    },
+    {
+        "codigo": "728",
+        "produto": "FILTRO PAPELITO SLIM LONGO - 5,3X22MM - 10X120",
+        "und": "DSP",
+        "quantidade": 4.0,
+        "varejo": "R$ 68.00",
+        "total": "R$ 272.00",
+        "categoria": "Filtros",
+        "fotos": "./fotos/728/1-728.png, ./fotos/728/2-728.png, ./fotos/728/3-728.png"
+    },
+    {
+        "codigo": "573",
+        "produto": "FILTRO PAPELITO TRADICIONAL - 6X15MM -1 X10",
+        "und": "DSP",
+        "quantidade": 2.0,
+        "varejo": "R$ 60.00",
+        "total": "R$ 120.00",
+        "categoria": "Filtros",
+        "fotos": "./fotos/573/1-573.png, ./fotos/573/2-573.png, ./fotos/573/3-573.png"
+    },
+    {
+        "codigo": "571",
+        "produto": "FILTRO PAPELITO TRADICIONAL LONGO - 6X22MM - 10X120",
+        "und": "DSP",
+        "quantidade": 13.0,
+        "varejo": "R$ 74.00",
+        "total": "R$ 962.00",
+        "categoria": "Filtros",
+        "fotos": "./fotos/571/1-571.png, ./fotos/571/2-571.png, ./fotos/571/3-571.png"
+    },
+    {
+        "codigo": "572",
+        "produto": "FILTRO PAPELITO TRADICIONAL LONGO ULTRA - 6X30MM-10X120 ",
+        "und": "DSP",
+        "quantidade": 9.0,
+        "varejo": "R$ 78.00",
+        "total": "R$ 702.00",
+        "categoria": "Filtros",
+        "fotos": "./fotos/572/1-572.png, ./fotos/572/2-572.png, ./fotos/572/3-572.png"
+    },
+    {
+        "codigo": "697",
+        "produto": "FILTRO SMOKING - 5,3X15MM - 34X150",
+        "und": "CX",
+        "quantidade": 1.0,
+        "varejo": "R$ 252.00",
+        "total": "R$ 252.00",
+        "categoria": "Filtros",
+        "fotos": "./fotos/697/1-697.png, ./fotos/697/2-697.png, ./fotos/697/3-697.png"
+    },
+    {
+        "codigo": "627",
+        "produto": "FUMO P/CIGARRO ACREMA BLEND ORIGINAL HASH 20G - 1X5",
+        "und": "DSP",
+        "quantidade": 20.0,
+        "varejo": "R$ 58.90",
+        "total": "R$ 1,178.00",
+        "categoria": "Fumos",
+        "fotos": "./fotos/627/1-627.png, ./fotos/627/2-627.png, ./fotos/627/3-627.png"
+    },
+    {
+        "codigo": "630",
+        "produto": "FUMO P/CIGARRO AMSTERDAM -1X6",
+        "und": "DSP",
+        "quantidade": 19.0,
+        "varejo": "R$ 72.00",
+        "total": "R$ 1,368.00",
+        "categoria": "Fumos",
+        "fotos": "./fotos/630/1-630.png, ./fotos/630/2-630.png, ./fotos/630/3-630.png"
+    },
+    {
+        "codigo": "629",
+        "produto": "FUMO P/CIGARRO HI TOBACCO GOLDEN VIRGINIA - 1X6",
+        "und": "DSP",
+        "quantidade": 6.0,
+        "varejo": "R$ 125.90",
+        "total": "R$ 755.40",
+        "categoria": "Fumos",
+        "fotos": "./fotos/629/1-629.png, ./fotos/629/2-629.png, ./fotos/629/3-629.png"
+    },
+    {
+        "codigo": "628",
+        "produto": "FUMO P/CIGARRO HI TOBACCO RAINBOW - 1X6",
+        "und": "DSP",
+        "quantidade": 13.0,
+        "varejo": "R$ 90.00",
+        "total": "R$ 1,170.00",
+        "categoria": "Fumos",
+        "fotos": "./fotos/628/1-628.png, ./fotos/628/2-628.png, ./fotos/628/3-628.png"
+    },
+    {
+        "codigo": "685",
+        "produto": "FUMO P/CIGARRO HI TOBACCO RAINBOW GOLDEN BROWN - 1X6",
+        "und": "DSP",
+        "quantidade": 6.0,
+        "varejo": "R$ 99.00",
+        "total": "R$ 594.00",
+        "categoria": "Fumos",
+        "fotos": "./fotos/685/1-685.png, ./fotos/685/2-685.png, ./fotos/685/3-685.png"
+    },
+    {
+        "codigo": "684",
+        "produto": "FUMO P/CIGARRO HI TOBACCO VIRGINIA BLEND - 1X6",
+        "und": "DSP",
+        "quantidade": 6.0,
+        "varejo": "R$ 136.00",
+        "total": "R$ 816.00",
+        "categoria": "Fumos",
+        "fotos": "./fotos/684/1-684.png, ./fotos/684/2-684.png, ./fotos/684/3-684.png"
+    },
+    {
+        "codigo": "686",
+        "produto": "FUMO P/CIGARRO MARLEY NATURAL - 1X5",
+        "und": "DSP",
+        "quantidade": 4.0,
+        "varejo": "R$ 68.00",
+        "total": "R$ 272.00",
+        "categoria": "Fumos",
+        "fotos": "./fotos/686/1-686.png, ./fotos/686/2-686.png, ./fotos/686/3-686.png"
+    },
+    {
+        "codigo": "689",
+        "produto": "FUMO P/CIGARRO SASSO KUMBAYA - 1X10",
+        "und": "DSP",
+        "quantidade": 6.0,
+        "varejo": "R$ 117.90",
+        "total": "R$ 707.40",
+        "categoria": "Fumos",
+        "fotos": "./fotos/689/1-689.png, ./fotos/689/2-689.png, ./fotos/689/3-689.png"
+    },
+    {
+        "codigo": "632",
+        "produto": "FUMO P/CIGARRO SASSO NATURAL - 1X10",
+        "und": "DSP",
+        "quantidade": 10.0,
+        "varejo": "R$ 112.00",
+        "total": "R$ 1,120.00",
+        "categoria": "Fumos",
+        "fotos": "./fotos/632/1-632.png, ./fotos/632/2-632.png, ./fotos/632/3-632.png"
+    },
+    {
+        "codigo": "631",
+        "produto": "FUMO P/CIGARRO SASSO TAB - 1X10",
+        "und": "DSP",
+        "quantidade": 5.0,
+        "varejo": "R$ 129.90",
+        "total": "R$ 649.50",
+        "categoria": "Fumos",
+        "fotos": "./fotos/631/1-631.png, ./fotos/631/2-631.png, ./fotos/631/3-631.png"
+    },
+    {
+        "codigo": "679",
+        "produto": "GÁS BULLFIRE - 300 ML",
+        "und": "UN",
+        "quantidade": 16.0,
+        "varejo": "R$ 13.90",
+        "total": "R$ 222.40",
+        "categoria": "Gás",
+        "fotos": "./fotos/679/1-679.png, ./fotos/679/2-679.png, ./fotos/679/3-679.png"
+    },
+    {
+        "codigo": "714",
+        "produto": "ISQ. CLIPPER CLASSIC RECAR GDE - 1X24",
+        "und": "DSP",
+        "quantidade": 14.0,
+        "varejo": "R$ 126.00",
+        "total": "R$ 1,764.00",
+        "categoria": "Isqueiros",
+        "fotos": "./fotos/714/1-714.png, ./fotos/714/2-714.png, ./fotos/714/3-714.png"
+    },
+    {
+        "codigo": "649",
+        "produto": "ISQ. GTI TRANSPARENTE MASTER - 1X25",
+        "und": "DSP",
+        "quantidade": 18.0,
+        "varejo": "R$ 50.00",
+        "total": "R$ 900.00",
+        "categoria": "Isqueiros",
+        "fotos": "./fotos/649/1-649.png, ./fotos/649/2-649.png, ./fotos/649/3-649.png"
+    },
+    {
+        "codigo": "677",
+        "produto": "ISQ. MAXI BIC - 1X12",
+        "und": "UN",
+        "quantidade": 5.0,
+        "varejo": "R$ 59.00",
+        "total": "R$ 295.00",
+        "categoria": "Isqueiros",
+        "fotos": "./fotos/677/1-677.png, ./fotos/677/2-677.png, ./fotos/677/3-677.png"
+    },
+    {
+        "codigo": "678",
+        "produto": "ISQ. MINI BIC - 1X12",
+        "und": "UN",
+        "quantidade": 7.0,
+        "varejo": "R$ 44.00",
+        "total": "R$ 308.00",
+        "categoria": "Isqueiros",
+        "fotos": "./fotos/678/1-678.png, ./fotos/678/2-678.png, ./fotos/678/3-678.png"
+    },
+    {
+        "codigo": "648",
+        "produto": "MAÇARICO ZENGAZ ZL-3E",
+        "und": "UN",
+        "quantidade": 12.0,
+        "varejo": "R$ 23.60",
+        "total": "R$ 283.20",
+        "categoria": "Maçaricos",
+        "fotos": "./fotos/648/1-648.png, ./fotos/648/2-648.png, ./fotos/648/3-648.png"
+    },
+    {
+        "codigo": "668",
+        "produto": "MAÇARICO ZENGAZ ZL-12A",
+        "und": "UN",
+        "quantidade": 12.0,
+        "varejo": "R$ 25.00",
+        "total": "R$ 300.00",
+        "categoria": "Maçaricos",
+        "fotos": "./fotos/668/1-668.png, ./fotos/668/2-668.png, ./fotos/668/3-668.png"
+    },
+    {
+        "codigo": "663",
+        "produto": "MAÇARICO ZENGAZ ZL-12B",
+        "und": "UN",
+        "quantidade": 2.0,
+        "varejo": "R$ 26.00",
+        "total": "R$ 52.00",
+        "categoria": "Maçaricos",
+        "fotos": "./fotos/663/1-663.png, ./fotos/663/2-663.png, ./fotos/663/3-663.png"
+    },
